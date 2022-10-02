@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b0b77fd-2ec3-4ea1-9962-ef9885f39686" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExArray/DemoArray_v1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExEnum/DemoEnum_v1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExLeetcode/TwoSum.java" afterDir="false" />
+    <list default="true" id="7b0b77fd-2ec3-4ea1-9962-ef9885f39686" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExAlishev/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExBook/DemoBoxWeight02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExEnum/TrafficLightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExLeetcode/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExPolymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExPolymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExPolymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xatalvix/ExPolymorphism/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xatalvix/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +45,13 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DemoEnum_v1">
-    <configuration name="DemoArray_v1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xatalvix.ExArray.DemoArray_v1" />
+  <component name="RunManager" selected="Application.DemoBoxWeight02">
+    <configuration name="DemoBoxWeight02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xatalvix.ExBook.DemoBoxWeight02" />
       <module name="LeetcodeAndOtherXatalvix" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xatalvix.ExArray.*" />
+          <option name="PATTERN" value="com.xatalvix.ExBook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,8 +59,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoEnum_v1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xatalvix.ExEnum.DemoEnum_v1" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xatalvix.ExLeetcode.PalindromeNumber" />
+      <module name="LeetcodeAndOtherXatalvix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xatalvix.ExLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xatalvix.ExPolymorphism.Test" />
+      <module name="LeetcodeAndOtherXatalvix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xatalvix.ExPolymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficLightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xatalvix.ExEnum.TrafficLightDemo" />
       <module name="LeetcodeAndOtherXatalvix" />
       <extension name="coverage">
         <pattern>
@@ -69,10 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.xatalvix.ExAlishev.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xatalvix.ExAlishev.Test" />
+      <module name="LeetcodeAndOtherXatalvix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xatalvix.ExAlishev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoEnum_v1" />
-        <item itemvalue="Application.DemoArray_v1" />
+        <item itemvalue="Application.DemoBoxWeight02" />
+        <item itemvalue="Application.com.xatalvix.ExAlishev.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.TrafficLightDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -84,8 +129,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664700408016</updated>
-      <workItem from="1664700409236" duration="2379000" />
+      <workItem from="1664700409236" duration="9058000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1664704507544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664704507544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +154,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
