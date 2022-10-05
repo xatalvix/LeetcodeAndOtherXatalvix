@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b0b77fd-2ec3-4ea1-9962-ef9885f39686" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/Book/DavidFlanagan/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book/DavidFlanagan/MakeChoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7b0b77fd-2ec3-4ea1-9962-ef9885f39686" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +125,7 @@
       <workItem from="1664700409236" duration="9058000" />
       <workItem from="1664726083561" duration="1620000" />
       <workItem from="1664807790815" duration="3710000" />
-      <workItem from="1664891329646" duration="5461000" />
+      <workItem from="1664891329646" duration="5537000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1664704507544</created>
@@ -152,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664900671059</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1664904410566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664904410566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
